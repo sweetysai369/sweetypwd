@@ -1,0 +1,31 @@
+{"details":{
+  "image":"photo.png",
+  "name":"swathi",
+  "phoneno":"+91-9505990526",
+  "email":"swathiganapanane@gmail.com",
+  "address":"MIC college,kanchikicherla"
+},
+"career":{
+  "info":"to pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowlwdge and utilize my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+  "qualification":"intermediate",
+  "institute":"sri chaitanya junior college",
+  "year":"2014-2016",
+  "percentage":"88%"
+},
+{
+"qualification":"school",
+"institute":"sri takshasila public school",
+"year":"2014",
+"percentage":"87%"
+}
+]
+}
